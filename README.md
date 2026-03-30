@@ -62,25 +62,19 @@ Hi, I’m **Shashwat Pratap Singh**, a B.Tech (CSE - AI/ML) student who’s deep
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
+### 📊 My GitHub Stats
 
-### 📊 My GitHub Journey
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&width=435&lines=Building+Intelligent+Systems;Machine+Learning+Enthusiast;Data+Science+Practitioner;Problem+Solver)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[shashwatpratapsingh7717]&theme=tokyonight" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashwatpratapsingh7717&show_icons=true&theme=flat&bg_color=ffffff&title_color=0055ff&text_color=000000&icon_color=0055ff" alt="Shashwat's Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[shashwatpratapsingh7717]&show_icons=true&theme=tokyonight&count_private=true" alt="Shashwat's Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[shashwatpratapsingh7717]&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatpratapsingh7717&layout=compact&theme=flat&bg_color=ffffff&title_color=0055ff&text_color=000000" alt="Top Langs" />
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[shashwatpratapsingh7717]&theme=tokyo-night)
-
----
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatpratapsingh7717&theme=flat&background=ffffff&ring=0055ff&fire=ff4500&currStreakNum=0055ff" alt="GitHub Streak" />
+</p>
 
 ### 📫 Connect with me:
 * **LinkedIn:** [https://www.linkedin.com/in/shashwat-pratap-singh-458862293/]
