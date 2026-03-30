@@ -65,13 +65,13 @@ Hi, I’m **Shashwat Pratap Singh**, a B.Tech (CSE - AI/ML) student who’s deep
 ---
 
 ### 📊 GitHub Stats
-![Shashwat's Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
+![Shashwat's Stats](https://github-readme-stats.vercel.app/api?username=[shashwatpratapsingh7717]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[shashwatpratapsingh7717]&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with me:
-* **LinkedIn:** [linkedin.com/in/shashwat-pratap-singh-458862293]
+* **LinkedIn:** [https://www.linkedin.com/in/shashwat-pratap-singh-458862293/]
 * **Email:** [shashwatsingh7717@gmail.com]
 
 *"Turning data into insight, one algorithm at a time."*
