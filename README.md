@@ -69,7 +69,7 @@ Hi, I’m **Shashwat Pratap Singh**, a B.Tech (CSE - AI/ML) student who’s deep
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashwatpratapsingh7717&layout=compact&theme=default&bg_color=ffffff&title_color=0055ff&text_color=000000" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashwatpratapsingh7717&layout=compact&theme=default&bg_color=ffffff&title_color=0055ff&text_color=000000&hide_border=true&card_width=450" alt="Top Langs" />
 </p>
 
 <p align="left">
