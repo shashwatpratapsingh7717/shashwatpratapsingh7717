@@ -64,9 +64,21 @@ Hi, I’m **Shashwat Pratap Singh**, a B.Tech (CSE - AI/ML) student who’s deep
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=shashwatpratapsingh7717&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shashwatpratapsingh7717&layout=compact&theme=radical)
+### 📊 My GitHub Journey
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&width=435&lines=Building+Intelligent+Systems;Machine+Learning+Enthusiast;Data+Science+Practitioner;Problem+Solver)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[shashwatpratapsingh7717]&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[shashwatpratapsingh7717]&show_icons=true&theme=tokyonight&count_private=true" alt="Shashwat's Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[shashwatpratapsingh7717]&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" />
+</p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[shashwatpratapsingh7717]&theme=tokyo-night)
 
 ---
 
