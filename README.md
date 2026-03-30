@@ -65,8 +65,8 @@ Hi, I’m **Shashwat Pratap Singh**, a B.Tech (CSE - AI/ML) student who’s deep
 ---
 
 ### 📊 GitHub Stats
-![Shashwat's Stats](https://github-readme-stats.vercel.app/api?username=[shashwatpratapsingh7717]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[shashwatpratapsingh7717]&layout=compact&theme=radical)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=shashwatpratapsingh7717&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shashwatpratapsingh7717&layout=compact&theme=radical)
 
 ---
 
