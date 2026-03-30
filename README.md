@@ -65,15 +65,15 @@ Hi, I’m **Shashwat Pratap Singh**, a B.Tech (CSE - AI/ML) student who’s deep
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashwatpratapsingh7717&show_icons=true&theme=flat&bg_color=ffffff&title_color=0055ff&text_color=000000&icon_color=0055ff" alt="Shashwat's Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashwatpratapsingh7717&show_icons=true&theme=default&bg_color=ffffff&title_color=0055ff&text_color=000000&icon_color=0055ff" alt="Shashwat's Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatpratapsingh7717&layout=compact&theme=flat&bg_color=ffffff&title_color=0055ff&text_color=000000" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashwatpratapsingh7717&layout=compact&theme=default&bg_color=ffffff&title_color=0055ff&text_color=000000" alt="Top Langs" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatpratapsingh7717&theme=flat&background=ffffff&ring=0055ff&fire=ff4500&currStreakNum=0055ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatpratapsingh7717&theme=light&background=ffffff&ring=0055ff&fire=ff4500&currStreakNum=0055ff" alt="GitHub Streak" />
 </p>
 
 ### 📫 Connect with me:
