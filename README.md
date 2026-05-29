@@ -9,7 +9,7 @@ Hi, I’m **Shashwat Pratap Singh**, a B.Tech (CSE - AI/ML) student who’s deep
 * 🤝 **Looking to collaborate on:** AI/ML, Data Science, and backend development projects where I can learn and contribute actively.
 * 🆘 **Looking for help with:** Deep Learning, model optimization, and deploying ML models into production (Streamlit, APIs, etc.).
 * 🌱 **Currently learning:** Advanced Machine Learning, Deep Learning (Neural Networks, LSTM), and scalable system design.
-* 💬 **Ask me about:** C, C++, Python, Machine Learning, Data Science, MongoDB,Postgresql,MYsql and Git/GitHub workflows.
+* 💬 **Ask me about:** C, C++, Python, Machine Learning, Data Science, MongoDB, Postgresql, MYsql and Git/GitHub workflows.
 
 ---
 
