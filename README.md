@@ -72,10 +72,6 @@ Hi, I’m **Shashwat Pratap Singh**, a B.Tech (CSE - AI/ML) student who’s deep
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashwatpratapsingh7717&theme=default&bg_color=ffffff&title_color=0055ff&text_color=000000&hide_border=true&card_width=400" alt="Top Langs" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.vercel.app?user=shashwatpratapsingh7717&theme=light&background=ffffff&ring=0055ff&fire=ff4500&currStreakNum=0055ff&v=1" alt="GitHub Streak" />
-</p>
-
 ### 📫 Connect with me:
 * **LinkedIn:** [https://www.linkedin.com/in/shashwat-pratap-singh-458862293/]
 * **Email:** [shashwatsingh7717@gmail.com]
