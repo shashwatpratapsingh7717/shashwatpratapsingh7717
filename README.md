@@ -73,7 +73,7 @@ Hi, I’m **Shashwat Pratap Singh**, a B.Tech (CSE - AI/ML) student who’s deep
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=shashwatpratapsingh7717&theme=light&background=ffffff&ring=0055ff&fire=ff4500&currStreakNum=0055ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=shashwatpratapsingh7717&theme=light&background=ffffff&ring=0055ff&fire=ff4500&currStreakNum=0055ff&v=1" alt="GitHub Streak" />
 </p>
 
 ### 📫 Connect with me:
